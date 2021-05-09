@@ -25,30 +25,7 @@
 >> 영상 데이터 백엔드 인터페이스 관련 공부 중
 
 ## 관련수강 과목
-* 융합SW개론
-* 기초프로그래밍
-* 이산구조론
-* 자료구조 및 알고리즘1
-* C프로그래밍
-* 자바프로그래밍1
-* 자바프로그래밍2
-* 논리 및 컴퓨터 구조
-* C++프로그래밍
-* u-데이터통신
-* 임베디드시스템
-* CIT개론
-* 모바일센서공학
-* 윈도우프로그래밍
-* IoT네트워크
-* 시스템프로그래밍
-* 웹프로그래밍
-* 디지털통신
-* 파이썬과학프로그래밍기초
-* 운영체제
-* 소프트웨어공학
-* 소프트웨어세미나2
-* 소프트웨어특강
-* 웹서버구축
+![image](https://user-images.githubusercontent.com/67696918/117566586-6cde1500-b0f2-11eb-8a29-1896b7ce3532.png)
 
 ## 언어
 * C, C#, C++, Java, JavaScript, html5/css3, Python, JSP/Servlet
@@ -61,4 +38,4 @@
 ## 프로젝트
 * 스마트 보일러(https://github.com/Kim-98/EmbeddedSystem)
 * 청춘천 웹 사이트(https://github.com/Kim-98/WebProgramming)
-* 
+* 라즈베리파이를 이용한 비트코인 모의투자 프로그램(https://github.com/Kim-98/SystemProgramming)
