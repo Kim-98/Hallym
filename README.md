@@ -37,5 +37,6 @@
 
 ## 프로젝트
 * 스마트 보일러(https://github.com/Kim-98/EmbeddedSystem)
+* 스마트 이어폰(https://github.com/Kim-98/IoTNetwork)
 * 청춘천 웹 사이트(https://github.com/Kim-98/WebProgramming)
 * 라즈베리파이를 이용한 비트코인 모의투자 프로그램(https://github.com/Kim-98/SystemProgramming)
