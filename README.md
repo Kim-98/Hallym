@@ -36,6 +36,7 @@
 * IoT - 하드웨어 모듈 제어 및 회로도 구성
 
 ## 프로젝트
+* 자바로 만든 사칙연산게임(https://github.com/Kim-98/JavaProgramming2)
 * 스마트 보일러(https://github.com/Kim-98/EmbeddedSystem)
 * 스마트 이어폰(https://github.com/Kim-98/IoTNetwork)
 * 청춘천 웹 사이트(https://github.com/Kim-98/WebProgramming)
