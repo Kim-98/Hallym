@@ -34,6 +34,7 @@
 * Java 개발
 * 웹 개발(프론트엔드 및 백엔드)
 * IoT - 하드웨어 모듈 제어 및 회로도 구성
+* React, Bootstrap, Spring, Node.js
 
 ## 프로젝트
 * 자바로 만든 사칙연산게임(https://github.com/Kim-98/JavaProgramming2)
