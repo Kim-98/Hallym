@@ -57,4 +57,6 @@
 * Java 개발
 * 웹 개발(프론트엔드 및 백엔드)
 * IoT - 하드웨어 모듈 제어 및 회로도 구성
-* 
+
+## 프로젝트
+* 스마트 보일러(https://github.com/Kim-98/EmbeddedSystem)
