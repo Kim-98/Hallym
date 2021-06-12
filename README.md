@@ -43,4 +43,4 @@
 * 청춘천 웹 사이트(https://github.com/Kim-98/WebProgramming)
 * 라즈베리파이를 이용한 비트코인 모의투자 프로그램(https://github.com/Kim-98/SystemProgramming)
 * 기부 및 봉사활동 커뮤니티 사이트(진행 중)
-* 오픈소스 하드웨어를 활용한 열화상 모니터링 시스템(진행 중)
+* 오픈소스 하드웨어를 활용한 열화상 모니터링 시스템(https://github.com/Kim-98/2021-Capstone)
