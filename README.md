@@ -44,3 +44,4 @@
 * 라즈베리파이를 이용한 비트코인 모의투자 프로그램(https://github.com/Kim-98/SystemProgramming)
 * 기부 및 봉사활동 커뮤니티 사이트(진행 중)
 * 오픈소스 하드웨어를 활용한 열화상 모니터링 시스템(https://github.com/Kim-98/2021-Capstone)
+* Message queue와 pipe 통신을 활용한 원카드 게임()
