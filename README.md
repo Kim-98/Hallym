@@ -33,9 +33,9 @@ Golang 백엔드 개발
 * MySQL, SQLite3
 * Vim, Linux, VsCode, Slack, Jira, SVN
 
-## 관심분야
-* 백엔드 개발
-* 프론트엔드 개발
+## 직무
+* 서버/백엔드 개발자
+* 프론트엔드 개발자
 
 ## 프로젝트
 * 스마트 보일러(https://github.com/Kim-98/EmbeddedSystem)
