@@ -8,8 +8,8 @@
 * email : jyhkjg69@gmail.com
 
 ## 학력
-* 한림대학교 융합소프트웨어학과(2016 ~ 2022)
 * 홍익대학교사범대학부속고등학교(2013 ~ 2016)
+* 한림대학교 융합소프트웨어학과(2016 ~ 2022)
 
 ## 자격증
 * Microsoft Office Specialist 2016 Master
